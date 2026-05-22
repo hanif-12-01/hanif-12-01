@@ -1,93 +1,87 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/main/github-header-banner.png" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi,%20I'm%20Hanif%20Al%20Faiz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Back-End%20%26%20AI%20Enthusiast&descAlignY=58&descAlign=50" />
 </p>
 
-### Hi there, I'm Hanif 👋
+<h2 align="center">👋 Hi there, I'm Hanif Al Faiz</h2>
 
-<p align="left">
-  I'm an Informatics Engineering student at <a href="https://ittelkom-pwt.ac.id/">Telkom University Purwokerto</a>.
+<p align="center">
+  Informatics Engineering Student at <b>Telkom University Purwokerto</b>  
   <br>
-  Welcome to my digital corner!
-</p>
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=hanif-12-01&label=Profile%20views&color=0e75b6&style=flat" alt="hanif-12-01" /> 
+  Passionate about <b>Back-End Development</b>, <b>Artificial Intelligence</b>, and <b>Software Engineering</b>.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently focusing on building my skills in **Back-End Development**.
-- 🌱 I’m currently learning and exploring **Go, Python, and JavaScript**.
-- 🧠 My main interests are **API Development, Machine Learning Models, and System Architecture**.
-- 👯 I’m looking to collaborate on open source projects related to **AI/ML or Back-End systems**.
+- 🎓 Informatics Engineering student at **Telkom University Purwokerto**
+- 🔭 Currently focusing on **Back-End Development** and **API Development**
+- 🌱 Learning **Python**, **JavaScript**, **Go**, **Machine Learning**, and **System Architecture**
+- 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and intelligent digital solutions
+- 🧠 I enjoy building useful projects, solving problems, and learning new technologies
+- 🤝 Open to collaboration on **AI/ML**, **Web Development**, and **Open Source Projects**
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=python,javascript,go,cpp,html,css,vue,nodejs,git,github,vscode,notion" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌧️ Rain Risk Index using Fuzzy Logic
+A simple Artificial Intelligence project that uses fuzzy logic to analyze weather data and estimate rain risk levels.
+
+### 🌐 Client–Proxy–Server Network Project
+A computer networking project using raw Python sockets to implement client, proxy, and web server communication.
+
+### 🏫 CampusCare AI
+A smart campus service navigator concept designed to help students, lecturers, and staff access campus services more easily.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanif-12-01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanif-12-01&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanif-12-01&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Back-End Development
+- REST API Development
+- Machine Learning Fundamentals
+- Software Testing
+- System Design Basics
+- Computer Networking
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:stshfaiz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-stshfaiz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> 
+  <a href="https://github.com/hanif-12-01">
+    <img src="https://img.shields.io/badge/GitHub-hanif--12--01-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-
-<details>
-  <summary>Click to view my GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hanif-12-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-12-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=hanif-12-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-    <br>
-    <img src="https://github-profile-trophy.vercel.app?username=hanif-12-01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanif-12-01&radius=16&theme=react&area=true" height="300" alt="activity-graph graph" />
-  </p>
-</details>
-
----
-
-### 🎮 My Contribution Graph as a Game
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hanif-12-01/hanif-12-01/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://discord.com/users/nippp9742" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/@zackkun3164" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/a.nippp__05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
+  <i>"Keep learning, keep building, and keep improving."</i>
 </p>
