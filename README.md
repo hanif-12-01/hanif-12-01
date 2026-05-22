@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi,%20I'm%20Hanif%20Al%20Faiz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Back-End%20%26%20AI%20Enthusiast&descAlignY=58&descAlign=50" />
-</p>
 
 <h2 align="center">👋 Hi there, I'm Hanif Al Faiz</h2>
 
