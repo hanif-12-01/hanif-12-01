@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/pixel/hero-room.webp" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./hero-room.webp" />
     <img
-      src="assets/pixel/hero-room.gif"
+      src="./hero-room.gif"
       width="100%"
       alt="HANIF.EXE — A cozy rainy-evening Japanese-inspired pixel-art coding room where M. Hanif Al Faiz sits at a wooden desk working on a laptop beside a warm desk lamp, coffee mug, books, and a sleeping tabby cat."
     />
@@ -18,14 +18,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </p>
 
 ## 01 / The Person Behind the Screen
 
 <p align="center">
   <img
-    src="assets/pixel/about-journal.webp"
+    src="./about-journal.webp"
     width="100%"
     alt="Chapter 01: A quiet evening journal open on a wooden desk beside a warm lamp, steaming coffee cup, plant, and rainy window."
   />
@@ -49,14 +49,14 @@ motto:    "Code. Lead. Build. Explore."
 ```
 
 <p align="center">
-  <img src="assets/pixel/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </p>
 
 ## 02 / Tools on My Desk
 
 <p align="center">
   <img
-    src="assets/pixel/tool-workshop.webp"
+    src="./tool-workshop.webp"
     width="100%"
     alt="Chapter 02: An organized little developer workshop with a wooden pegboard, reference books, mechanical keyboard, headphones, and a glowing mint-teal monitor."
   />
@@ -72,14 +72,14 @@ The languages, frameworks, and tools I reach for most often across coursework, p
 | **Developer Tools & Databases** | `Git` · `GitHub` · `PostgreSQL` · `MySQL` · `Docker` · `Figma` · `VS Code` · `Android Studio` |
 
 <p align="center">
-  <img src="assets/pixel/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </p>
 
 ## 03 / Little Projects, Big Ideas
 
 <p align="center">
   <img
-    src="assets/pixel/project-board.webp"
+    src="./project-board.webp"
     width="100%"
     alt="Chapter 03: Pixel Hanif holding a coffee mug while looking at a wooden quest board pinned with project cards, city map sketches, and warm fairy lights."
   />
@@ -101,14 +101,14 @@ A few selected builds from my workshop — ranging from early startup MVPs and s
 </p>
 
 <p align="center">
-  <img src="assets/pixel/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </p>
 
 ## 04 / Memories & Little Victories
 
 <p align="center">
   <img
-    src="assets/pixel/memory-gallery.webp"
+    src="./memory-gallery.webp"
     width="100%"
     alt="Chapter 04: A cozy wooden memory gallery shelf with warm fairy lights, framed milestones, a small trophy, an open scrapbook, and a sleeping tabby cat."
   />
@@ -124,14 +124,14 @@ Every competition, research project, and student organization has been a chance 
 - **Leadership & Community** · Served as Secretary of BEM KEMA, Project Lead / OC Chair for the Responsive Program, Host/MC & Secretary for TULC Season 2, Education Member at Satria Muda, and active member across HMIF & HIMA Informatics.
 
 <p align="center">
-  <img src="assets/pixel/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </p>
 
 ## 05 / Until Next Time
 
 <p align="center">
   <img
-    src="assets/pixel/night-walk.webp"
+    src="./night-walk.webp"
     width="100%"
     alt="Chapter 05: A peaceful moonlit Japanese-inspired residential street with glowing windows, vending machines, a bicycle, and Pixel Hanif waving goodbye alongside a small tabby cat."
   />
@@ -154,5 +154,5 @@ Every competition, research project, and student organization has been a chance 
 </p>
 
 <p align="center">
-  <img src="assets/pixel/goodbye-badge.svg" width="380" alt="HANIF.EXE — See You Next Time · Code. Lead. Build. Explore. · またね" />
+  <img src="./goodbye-badge.svg" width="380" alt="HANIF.EXE — See You Next Time · Code. Lead. Build. Explore. · またね" />
 </p>
