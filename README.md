@@ -1,207 +1,198 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,20:111827,45:4C1D95,70:6D28D9,100:2563EB&amp;height=280&amp;section=header&amp;text=M.%20Hanif%20Al%20Faiz&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Informatics%20Engineering%20Student%20%7C%20AI%20Explorer%20%7C%20Smart%20City%20Builder%20%7C%20Software%20Project%20Learner&amp;descAlignY=58&amp;descSize=15" />
+<img src="assets/pixel/01-cozy-room.svg" width="100%" alt="Cozy pixel-art Japanese-inspired study room at night with a coding desk, moonlit window, a cat, and the HANIF.EXE introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Informatics+Engineering+Student+at+Telkom+University+Purwokerto;Building+AI%2C+Web%2C+Application%2C+and+Smart+City+Projects;Exploring+AI+Agents%2C+IoT%2C+Data+Science%2C+and+Product+Engineering;Turning+Ideas+Into+Useful+Digital+Systems" alt="Typing SVG" />
+<br>
 
-<br/>
-<br/>
+<sub>夜の作業部屋 · A little room for ideas, experiments, and meaningful software.</sub>
 
-<img src="https://img.shields.io/badge/Telkom%20University%20Purwokerto-Informatics%20Engineering-7C3AED?style=for-the-badge&amp;logo=academia&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Smart%20City%20%7C%20Web-4F46E5?style=for-the-badge&amp;logo=githubcopilot&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Indonesia-2563EB?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" />
-
-<br/>
-<br/>
-
-<a href="mailto:stshfaiz@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-stshfaiz%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
-<a href="https://github.com/hanif-12-01">
-  <img src="https://img.shields.io/badge/GitHub-hanif--12--01-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-<a href="https://github.com/hanif-12-01?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-Repository%20Showcase-7C3AED?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=M.%20Hanif%20Al%20Faiz">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=hanif-12-01&amp;label=Profile%20Views&amp;color=7C3AED&amp;style=flat-square" />
-<img src="https://img.shields.io/github/followers/hanif-12-01?label=Followers&amp;style=flat-square&amp;color=4F46E5&amp;logo=github" />
-<img src="https://img.shields.io/github/stars/hanif-12-01?affiliations=OWNER%2CCOLLABORATOR&amp;label=Stars&amp;style=flat-square&amp;color=8B5CF6&amp;logo=github" />
+<p>
+  <a href="https://hanif-exe.vercel.app"><strong>↗ Visit my pixel portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/hanif-12-01?tab=repositories">Explore repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/hanif-faiz-05b36b31a">Say hello</a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 01 / The person behind the screen ☕
 
-## Digital Engineering Playground
+> *A warm desk lamp, a notebook full of ideas, and probably too many browser tabs.*
 
-<img width="70%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+Hey there! I'm **M. Hanif Al Faiz**, an Informatics Engineering student at **Telkom University Purwokerto, Indonesia**.
 
-</div>
+I spend my time exploring **artificial intelligence, software engineering, smart cities, and digital products**. What I enjoy most is turning a real-world problem into something people can actually use — whether that's a civic dashboard, an AI prototype, or a small web experiment.
 
----
-
-## About Me
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-Hi, I am **M. Hanif Al Faiz**, an **Informatics Engineering student at Telkom University Purwokerto**.
-
-I am deeply interested in building technology projects around **Artificial Intelligence**, **Smart City systems**, **web applications**, **software applications**, **IoT**, **AI agents**, and **technology-based business innovation**.
-
-My current journey is focused on becoming a stronger software builder by combining:
-
-- **Computer science fundamentals**
-- **Software engineering practice**
-- **AI-based problem solving**
-- **Product and business thinking**
-- **Competition and research experience**
-- **Community-driven impact**
-
-I enjoy learning by building real projects, joining competitions, contributing to organizations, and exploring how technology can solve problems in education, public services, cities, and daily productivity.
-
-</td>
-<td width="35%" valign="top">
+Outside of coding, I enjoy joining competitions, collaborating with teams, learning new things, and connecting technology with community impact. My personal rule is simple: **build something, learn from it, then make it better.**
 
 ```yaml
-name: M. Hanif Al Faiz
-role: Informatics Engineering Student
-campus: Telkom University Purwokerto
-country: Indonesia
-
-interests:
-  - Artificial Intelligence
-  - Smart City
-  - Web Development
-  - Application Development
-  - IoT
-  - AI Agent
-  - Tech Business
-
-mindset:
-  - Build first
-  - Learn deeply
-  - Improve constantly
-  - Create impact
+player: M. Hanif Al Faiz
+alias: HANIF.EXE
+home_base: Indonesia
+class: Informatics Student / Curious Builder
+currently_exploring:
+  - Artificial Intelligence & AI Agents
+  - Civic Tech & Smart Cities
+  - Full-Stack Applications
+  - Data, Research & Product Thinking
+side_quest: Make technology a little more useful.
 ```
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <sub>✦ Code. Lead. Build. Explore. ✦</sub>
+</div>
 
 ---
 
-## Programming Languages I Use
+## 02 / The quest board — things I've built 🗺️
+
+Some projects are experiments, some are competition prototypes, and some are ideas I'm still growing. Each one teaches me something different.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,php,html,css,mysql&amp;theme=dark" />
-
-<br/>
-<br/>
+<img src="assets/pixel/02-quest-board.svg" width="100%" alt="Original cozy pixel-art quest board showing four areas: civic tech, applied AI, digital products and research" />
+</div>
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="55" />
-<br/>
-<b>Python</b>
-<br/>
-<sub>AI, Data Science, Networking, Algorithm</sub>
+<td width="50%" valign="top">
+
+### ⚡ WattWise AI
+**Electricity intelligence · AI + product**
+
+A decision-support prototype for electricity usage and costs, combining meter OCR, consumption insights, and in-browser load forecasting.
+
+<sub>Next.js · TypeScript · PostgreSQL · ONNX</sub>
+
+<a href="https://github.com/hanif-12-01/start-up-repo">↗ Explore project</a>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="55" />
-<br/>
-<b>JavaScript</b>
-<br/>
-<sub>Web, UI Logic, Interactive Apps</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="55" />
-<br/>
-<b>TypeScript</b>
-<br/>
-<sub>Modern Web, Next.js, Scalable Frontend</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="55" />
-<br/>
-<b>Java</b>
-<br/>
-<sub>OOP, Academic Apps, Backend Logic</sub>
+<td width="50%" valign="top">
+
+### 🏙️ CIVICTWIN Semarang
+**Civic intelligence · Smart city**
+
+A competition proof-of-concept for urban priorities, simulated citizen feedback, and policy exploration.
+
+<sub>React · TypeScript · Leaflet · Vite</sub>
+
+<a href="https://github.com/hanif-12-01/Unity-semarang">↗ Explore project</a>
+
 </td>
 </tr>
-
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="55" />
-<br/>
-<b>C++</b>
-<br/>
-<sub>Data Structure, Logic, Algorithm</sub>
+<td width="50%" valign="top">
+
+### 🗺️ Purwokerto Intelligence Layer
+**GIS + policy simulation**
+
+Experimental geospatial civic dashboard with thematic maps, simulated indicators, and dynamic priority weighting.
+
+<sub>React · TypeScript · Leaflet · MCDM</sub>
+
+<a href="https://github.com/hanif-12-01/Purwokerto-intelligence-layer">↗ Explore project</a>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="55" />
-<br/>
-<b>PHP</b>
-<br/>
-<sub>Laravel, Backend, Web System</sub>
+<td width="50%" valign="top">
+
+### 🌿 EcoThread
+**Circular fashion · Digital product**
+
+A GEMASTIK XIX project exploring upcycled fashion, UMKM production workflows, and Digital Product Passports.
+
+<sub>TypeScript · React · Fastify · Prisma</sub>
+
+<a href="https://github.com/hanif-12-01/Gemastik-XIX-">↗ Explore project</a>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="55" />
-<br/>
-<b>HTML</b>
-<br/>
-<sub>Web Structure, Interface Layout</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 PanganNadi Adaptive
+**Decision support · Food logistics**
+
+A hackathon prototype exploring food-price risk, constrained distribution planning, and human-approved decisions.
+
+<sub>Python · FastAPI · React · OR-Tools</sub>
+
+<a href="https://github.com/hanif-12-01/Hackathon-seno-ITS">↗ Explore project</a>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="55" />
-<br/>
-<b>CSS</b>
-<br/>
-<sub>Styling, Responsive UI, Visual Design</sub>
+<td width="50%" valign="top">
+
+### 🍜 Lapor Mangan!
+**Local discovery · Web**
+
+A Purwokerto culinary discovery prototype supporting local UMKM with maps, weather-aware suggestions, and a rule-based assistant.
+
+<sub>JavaScript · HTML/CSS · Leaflet</sub>
+
+<a href="https://github.com/hanif-12-01/LAPORMANGAN">↗ Explore project</a>
+
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-AI%20%7C%20Networking%20%7C%20Algorithm-7C3AED?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Web%20Development-4F46E5?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-Modern%20Frontend-2563EB?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Java-OOP%20Programming-6D28D9?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-Data%20Structure-312E81?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-Laravel%20Backend-6366F1?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Interface-8B5CF6?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Database%20Query-2563EB?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+**[Explore the full project collection →](https://hanif-exe.vercel.app/projects)**
 
 </div>
 
 ---
 
-## Language Usage Map
+## 03 / Tools on my desk 🧰
+
+I choose technologies based on the problem, not just the trend. These are some of the languages and tools I've worked with across projects and coursework.
 
 <div align="center">
 
-| Language | Main Usage | Project Direction |
-|---|---|---|
-| **Python** | AI, data science, socket programming, algorithm analysis | AI projects, networking system, QoS testing, complexity benchmarking |
-| **JavaScript** | Frontend interaction, web logic, dynamic interface | Web application, landing page, dashboard, browser-based tools |
-| **TypeScript** | Modern frontend and scalable web development | Next.js application, structured frontend system |
-| **Java** | Object-oriented programming and academic software logic | OOP practice, application structure, backend logic learning |
-| **C++** | Data structures and algorithm fundamentals | Stack, queue, linked list, tree, graph, modular programming |
-| **PHP** | Backend web development | Laravel-based application, API-oriented system |
-| **HTML** | Web structure and page layout | Static web, interface skeleton, content structure |
-| **CSS** | Visual design and responsive UI | Modern layout, styling, gradient UI, clean presentation |
-| **SQL** | Database structure and query logic | MySQL / SQLite database-oriented academic projects |
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,java,cpp,php,html,css,mysql,postgres,git,figma,docker&perline=8" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, Java, C++, PHP, HTML, CSS, MySQL, PostgreSQL, Git, Figma and Docker" />
+
+<br>
+
+<sub>AI & data experiments · Frontend & backend · GIS · Databases · Software fundamentals</sub>
+
+</div>
+
+---
+
+## 04 / Side quests, research & little victories ✨
+
+The fun part isn't just writing code. It's taking ideas into the real world, presenting them, and learning from other people.
+
+- 🥉 **3rd Place — UNITY UNY 2026 Smart City Competition**, with the CIVICTWIN Semarang prototype.
+- 💡 **Top 10 Finalist — PLN ICE 2026 Startup Competition**, with WattWise AI.
+- 🔬 **Research explorations** include [THERMOBREATH](https://github.com/hanif-12-01/THERMOBREATH), a breath-sensing research and machine-learning workspace, and [SafeTrace Lite](https://github.com/hanif-12-01/SafeTrace-Lite), an FPGA security design proposal and functional reference model.
+- 🤝 **Teamwork and leadership** through competitions, campus organizations, and collaborative product experiments.
+
+<div align="center">
+  <sub>Still learning. Still experimenting. There's always another quest.</sub>
+</div>
+
+---
+
+## 05 / Leave a note before you go 💌
+
+Whether it's an AI experiment, a collaboration, an interesting product idea, or just a conversation about technology — I'd love to connect.
+
+<div align="center">
+
+<a href="mailto:mhanifalfaiz@student.telkomuniversity.ac.id">✉️ Email</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/hanif-faiz-05b36b31a">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://hanif-exe.vercel.app">HANIF.EXE Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/hanif-12-01">GitHub</a>
+
+<br><br>
+
+<img src="assets/pixel/03-night-walk.svg" width="100%" alt="Original Japanese-inspired pixel-art night street with a moon, distant mountains, torii gate and a warm goodbye message" />
+
+<sub>Original pixel artwork made for this README · Inspired by quiet Japanese evenings and indie RPG worlds.</sub>
 
 </div>
