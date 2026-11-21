@@ -1,198 +1,164 @@
-<div align="center">
-
-<img src="assets/pixel/01-cozy-room.svg" width="100%" alt="Cozy pixel-art Japanese-inspired study room at night with a coding desk, moonlit window, a cat, and the HANIF.EXE introduction" />
-
-<br>
-
-<sub>夜の作業部屋 · A little room for ideas, experiments, and meaningful software.</sub>
-
-<p>
-  <a href="https://hanif-exe.vercel.app"><strong>↗ Visit my pixel portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/hanif-12-01?tab=repositories">Explore repositories</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/hanif-faiz-05b36b31a">Say hello</a>
+<p align="center">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="assets/pixel/hero-room.webp" />
+<img
+src="assets/pixel/hero-room.gif"
+width="100%"
+alt="HANIF.EXE — A cozy rainy-evening Japanese-inspired pixel-art coding room where M. Hanif Al Faiz sits at a wooden desk working on a laptop beside a warm desk lamp, coffee mug, books, and a sleeping tabby cat."
+/>
+</picture>
 </p>
 
-</div>
+<p align="center">
+<a href="https://hanif-exe.vercel.app"><strong>Explore My Portfolio</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://hanif-exe.vercel.app/projects"><strong>View My Projects</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hanif-faiz-05b36b31a"><strong>Connect With Me</strong></a>
+</p>
 
----
+<p align="center">
+<img src="assets/pixel/divider.svg" width="100%" alt="" />
+</p>
 
-## 01 / The person behind the screen ☕
+## 01 / The Person Behind the Screen
 
-> *A warm desk lamp, a notebook full of ideas, and probably too many browser tabs.*
+<p align="center">
+<img
+src="assets/pixel/about-journal.webp"
+width="100%"
+alt="Chapter 01: A quiet evening journal open on a wooden desk beside a warm lamp, steaming coffee cup, plant, and rainy window."
+/>
+</p>
 
-Hey there! I'm **M. Hanif Al Faiz**, an Informatics Engineering student at **Telkom University Purwokerto, Indonesia**.
+Hi, I'm **M. Hanif Al Faiz** — known online as **HANIF.EXE**. I'm an Informatics Engineering student at **Telkom University Purwokerto**, Indonesia, who enjoys turning late-evening ideas into thoughtful, practical software.
 
-I spend my time exploring **artificial intelligence, software engineering, smart cities, and digital products**. What I enjoy most is turning a real-world problem into something people can actually use — whether that's a civic dashboard, an AI prototype, or a small web experiment.
+Most of what I build sits at the intersection of **artificial intelligence, civic technology, and full-stack web applications**. I care about making technology genuinely useful for everyday people — whether that means helping small businesses understand their electricity bills, prototyping smart-city simulations, or building tools for local communities. I love learning in public, collaborating across disciplines, and approaching every project with curiosity and care.
 
-Outside of coding, I enjoy joining competitions, collaborating with teams, learning new things, and connecting technology with community impact. My personal rule is simple: **build something, learn from it, then make it better.**
-
-```yaml
-player: M. Hanif Al Faiz
-alias: HANIF.EXE
-home_base: Indonesia
-class: Informatics Student / Curious Builder
-currently_exploring:
-  - Artificial Intelligence & AI Agents
+```
+# developer_journal.yml
+name:     M. Hanif Al Faiz (HANIF.EXE)
+location: Purwokerto, Indonesia
+study:    Informatics Engineering
+          Telkom University Purwokerto (2027)
+focus:
+  - AI & AI Agents
   - Civic Tech & Smart Cities
-  - Full-Stack Applications
-  - Data, Research & Product Thinking
-side_quest: Make technology a little more useful.
+  - Full-Stack Software & Applied Research
+motto:    "Code. Lead. Build. Explore."
+
 ```
 
-<div align="center">
-  <sub>✦ Code. Lead. Build. Explore. ✦</sub>
-</div>
+<p align="center">
+<img src="assets/pixel/divider.svg" width="100%" alt="" />
+</p>
 
----
+## 02 / Tools on My Desk
 
-## 02 / The quest board — things I've built 🗺️
+<p align="center">
+<img
+src="assets/pixel/tool-workshop.webp"
+width="100%"
+alt="Chapter 02: An organized little developer workshop with a wooden pegboard, reference books, mechanical keyboard, headphones, and a glowing mint-teal monitor."
+/>
+</p>
 
-Some projects are experiments, some are competition prototypes, and some are ideas I'm still growing. Each one teaches me something different.
+The languages, frameworks, and tools I reach for most often across coursework, prototypes, and research experiments:
 
-<div align="center">
-<img src="assets/pixel/02-quest-board.svg" width="100%" alt="Original cozy pixel-art quest board showing four areas: civic tech, applied AI, digital products and research" />
-</div>
+| Shelf | Equipment & Stack | 
+| ----- | ----- | 
+| **Languages** | `Python` · `TypeScript` · `JavaScript` · `Java` · `C` · `C++` · `Go` · `PHP` · `SQL` | 
+| **Web & App Development** | `React` · `Next.js` · `Vite` · `Tailwind CSS` · `HTML5 & CSS3` · `Leaflet` · `Drizzle ORM` · `Laravel` · `Vue` | 
+| **AI, Data & Intelligent Systems** | `NumPy` · `Pandas` · `Matplotlib` · `Jupyter Notebook` · `Fuzzy Logic` · `ONNX Runtime Web` · `Tesseract.js (OCR)` · `AI Agents` | 
+| **Developer Tools & Databases** | `Git` · `GitHub` · `PostgreSQL` · `MySQL` · `Docker` · `Figma` · `VS Code` · `Android Studio` | 
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="assets/pixel/divider.svg" width="100%" alt="" />
+</p>
 
-### ⚡ WattWise AI
-**Electricity intelligence · AI + product**
+## 03 / Little Projects, Big Ideas
 
-A decision-support prototype for electricity usage and costs, combining meter OCR, consumption insights, and in-browser load forecasting.
+<p align="center">
+<img
+src="assets/pixel/project-board.webp"
+width="100%"
+alt="Chapter 03: Pixel Hanif holding a coffee mug while looking at a wooden quest board pinned with project cards, city map sketches, and warm fairy lights."
+/>
+</p>
 
-<sub>Next.js · TypeScript · PostgreSQL · ONNX</sub>
+A few selected builds from my workshop — ranging from early startup MVPs and smart-city simulations to local community prototypes and academic experiments.
 
-<a href="https://github.com/hanif-12-01/start-up-repo">↗ Explore project</a>
+| Project | Purpose | Tech Stack | Status & Note | 
+| ----- | ----- | ----- | ----- | 
+| [**WattWise AI**](https://github.com/hanif-12-01/start-up-repo) | Electricity cost intelligence, meter OCR, and usage forecasting built for Indonesian small businesses. | Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Drizzle ORM, ONNX Runtime Web, Tesseract.js, Laravel, Vue | **Active MVP / Pilot Validation**  <sub>Top 10 Finalist — PLN ICE 2026</sub> | 
+| [**CIVICTWIN Semarang**](https://github.com/hanif-12-01/Unity-semarang) | Smart-city civic intelligence and urban scenario simulation prototype focused on Semarang. | React, TypeScript, Vite, Tailwind CSS, Leaflet | **Prototype / Simulation**  <sub>3rd Place — UNITY UNY 2026</sub> | 
+| [**Purwokerto Intelligence Layer**](https://github.com/hanif-12-01/Purwokerto-intelligence-layer) | Geospatial visualization and civic policy experimentation prototype for Purwokerto. | React, TypeScript, Vite, Tailwind CSS, Leaflet | **Research Experiment** | 
+| [**Lapor Mangan!**](https://github.com/hanif-12-01/LAPORMANGAN) | Local food discovery and UMKM-oriented culinary web prototype for Purwokerto. | JavaScript, HTML5, CSS3, Leaflet, Open-Meteo API | **Completed Prototype** | 
+| [**Bernas MBG**](https://github.com/hanif-12-01/Bernas-MBG) | Multi-role meal distribution monitoring proof of concept. | React, JavaScript, Tailwind CSS, Python | **Proof-of-Concept Prototype** | 
+| [**Fuzzy Rain Risk Index**](https://github.com/hanif-12-01/Tubes-Dasar-Kecerdasan-Artificial) | Python-based fuzzy inference experimentation for rainfall risk modeling. | Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Fuzzy Logic | **Academic Experiment** | 
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+<a href="https://hanif-exe.vercel.app/projects"><strong>Browse the full project archive on HANIF.EXE →</strong></a>
+</p>
 
-### 🏙️ CIVICTWIN Semarang
-**Civic intelligence · Smart city**
+<p align="center">
+<img src="assets/pixel/divider.svg" width="100%" alt="" />
+</p>
 
-A competition proof-of-concept for urban priorities, simulated citizen feedback, and policy exploration.
+## 04 / Memories & Little Victories
 
-<sub>React · TypeScript · Leaflet · Vite</sub>
+<p align="center">
+<img
+src="assets/pixel/memory-gallery.webp"
+width="100%"
+alt="Chapter 04: A cozy wooden memory gallery shelf with warm fairy lights, framed milestones, a small trophy, an open scrapbook, and a sleeping tabby cat."
+/>
+</p>
 
-<a href="https://github.com/hanif-12-01/Unity-semarang">↗ Explore project</a>
+Every competition, research project, and student organization has been a chance to learn from great teammates and grow a little further:
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+* **3rd Place — UNITY UNY 2026 Smart City Competition** · Built the *CIVICTWIN Semarang* smart-city simulation prototype.
 
-### 🗺️ Purwokerto Intelligence Layer
-**GIS + policy simulation**
+* **Top 10 Finalist — PLN ICE 2026 Startup Competition** · Developed *WattWise AI* for small-business electricity cost intelligence (PT PLN Persero).
 
-Experimental geospatial civic dashboard with thematic maps, simulated indicators, and dynamic priority weighting.
+* **Top 5 Finalist — GenBI Business Plan Competition 2026** · Recognized in the business plan finals (Generasi Baru Indonesia).
 
-<sub>React · TypeScript · Leaflet · MCDM</sub>
+* **YIA KPP Mining Project Grant Recipient** · Supported by Yayasan Inspirasi Anak Bangsa & PT Kalimantan Prima Persada.
 
-<a href="https://github.com/hanif-12-01/Purwokerto-intelligence-layer">↗ Explore project</a>
+* **Applied Research & PKM** · Contributed to 2 faculty community service (PKM) programs, 1 faculty research project, PKM Data Science presentation, and PKM-K.
 
-</td>
-<td width="50%" valign="top">
+* **Leadership & Community** · Served as Secretary of BEM KEMA, Project Lead / OC Chair for the Responsive Program, Host/MC & Secretary for TULC Season 2, Education Member at Satria Muda, and active member across HMIF & HIMA Informatics.
 
-### 🌿 EcoThread
-**Circular fashion · Digital product**
+<p align="center">
+<img src="assets/pixel/divider.svg" width="100%" alt="" />
+</p>
 
-A GEMASTIK XIX project exploring upcycled fashion, UMKM production workflows, and Digital Product Passports.
+## 05 / Until Next Time
 
-<sub>TypeScript · React · Fastify · Prisma</sub>
+<p align="center">
+<img
+src="assets/pixel/night-walk.webp"
+width="100%"
+alt="Chapter 05: A peaceful moonlit Japanese-inspired residential street with glowing windows, vending machines, a bicycle, and Pixel Hanif waving goodbye alongside a small tabby cat."
+/>
+</p>
 
-<a href="https://github.com/hanif-12-01/Gemastik-XIX-">↗ Explore project</a>
+<p align="center">
+Thanks for visiting my little corner of the internet.<br/>
+I'm always learning, building, and looking for meaningful things to create.<br/>
+<strong>Have an idea? Let's make something together.</strong>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<a href="https://hanif-exe.vercel.app"><strong>Portfolio</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/hanif-12-01"><strong>GitHub</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hanif-faiz-05b36b31a"><strong>LinkedIn</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:mhanifalfaiz@student.telkomuniversity.ac.id"><strong>Email</strong></a>
+</p>
 
-### 🌾 PanganNadi Adaptive
-**Decision support · Food logistics**
-
-A hackathon prototype exploring food-price risk, constrained distribution planning, and human-approved decisions.
-
-<sub>Python · FastAPI · React · OR-Tools</sub>
-
-<a href="https://github.com/hanif-12-01/Hackathon-seno-ITS">↗ Explore project</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍜 Lapor Mangan!
-**Local discovery · Web**
-
-A Purwokerto culinary discovery prototype supporting local UMKM with maps, weather-aware suggestions, and a rule-based assistant.
-
-<sub>JavaScript · HTML/CSS · Leaflet</sub>
-
-<a href="https://github.com/hanif-12-01/LAPORMANGAN">↗ Explore project</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[Explore the full project collection →](https://hanif-exe.vercel.app/projects)**
-
-</div>
-
----
-
-## 03 / Tools on my desk 🧰
-
-I choose technologies based on the problem, not just the trend. These are some of the languages and tools I've worked with across projects and coursework.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,java,cpp,php,html,css,mysql,postgres,git,figma,docker&perline=8" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, Java, C++, PHP, HTML, CSS, MySQL, PostgreSQL, Git, Figma and Docker" />
-
-<br>
-
-<sub>AI & data experiments · Frontend & backend · GIS · Databases · Software fundamentals</sub>
-
-</div>
-
----
-
-## 04 / Side quests, research & little victories ✨
-
-The fun part isn't just writing code. It's taking ideas into the real world, presenting them, and learning from other people.
-
-- 🥉 **3rd Place — UNITY UNY 2026 Smart City Competition**, with the CIVICTWIN Semarang prototype.
-- 💡 **Top 10 Finalist — PLN ICE 2026 Startup Competition**, with WattWise AI.
-- 🔬 **Research explorations** include [THERMOBREATH](https://github.com/hanif-12-01/THERMOBREATH), a breath-sensing research and machine-learning workspace, and [SafeTrace Lite](https://github.com/hanif-12-01/SafeTrace-Lite), an FPGA security design proposal and functional reference model.
-- 🤝 **Teamwork and leadership** through competitions, campus organizations, and collaborative product experiments.
-
-<div align="center">
-  <sub>Still learning. Still experimenting. There's always another quest.</sub>
-</div>
-
----
-
-## 05 / Leave a note before you go 💌
-
-Whether it's an AI experiment, a collaboration, an interesting product idea, or just a conversation about technology — I'd love to connect.
-
-<div align="center">
-
-<a href="mailto:mhanifalfaiz@student.telkomuniversity.ac.id">✉️ Email</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/hanif-faiz-05b36b31a">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://hanif-exe.vercel.app">HANIF.EXE Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/hanif-12-01">GitHub</a>
-
-<br><br>
-
-<img src="assets/pixel/03-night-walk.svg" width="100%" alt="Original Japanese-inspired pixel-art night street with a moon, distant mountains, torii gate and a warm goodbye message" />
-
-<sub>Original pixel artwork made for this README · Inspired by quiet Japanese evenings and indie RPG worlds.</sub>
-
-</div>
+<p align="center">
+<img src="assets/pixel/goodbye-badge.svg" width="380" alt="HANIF.EXE — See You Next Time · Code. Lead. Build. Explore. · またね" />
+</p>
